@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>chalermpon.dev</title>
+    <link href="https://chalermpondasri.github.io/chalermpon.dev/feed.xml" rel="self" />
+    <link href="https://chalermpondasri.github.io/chalermpon.dev" />
+    <updated>2026-03-12T23:14:11+07:00</updated>
+    <author>
+        <name>Chalermpon Dasri</name>
+    </author>
+    <id>https://chalermpondasri.github.io/chalermpon.dev</id>
+
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Chalermpon Dasri</name>
+        </author>
+        <link href="https://chalermpondasri.github.io/chalermpon.dev/hello.html"/>
+        <id>https://chalermpondasri.github.io/chalermpon.dev/hello.html</id>
+
+        <updated>2026-03-12T23:14:11+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a first article on Pubii.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a first article on Pubii.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

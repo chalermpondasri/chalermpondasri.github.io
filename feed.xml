@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>chalerpondasri.github.io</title>
-    <link href="https://chalermpondasri.github.io/chalermpon.dev/feed.xml" rel="self" />
-    <link href="https://chalermpondasri.github.io/chalermpon.dev" />
+    <link href="https://chalermpondasri.github.io/feed.xml" rel="self" />
+    <link href="https://chalermpondasri.github.io" />
     <updated>2026-03-12T23:14:11+07:00</updated>
     <author>
         <name>Chalermpon Dasri</name>
     </author>
-    <id>https://chalermpondasri.github.io/chalermpon.dev</id>
+    <id>https://chalermpondasri.github.io</id>
 
     <entry>
         <title>Hello</title>
         <author>
             <name>Chalermpon Dasri</name>
         </author>
-        <link href="https://chalermpondasri.github.io/chalermpon.dev/hello.html"/>
-        <id>https://chalermpondasri.github.io/chalermpon.dev/hello.html</id>
+        <link href="https://chalermpondasri.github.io/hello.html"/>
+        <id>https://chalermpondasri.github.io/hello.html</id>
 
         <updated>2026-03-12T23:14:11+07:00</updated>
             <summary type="html">

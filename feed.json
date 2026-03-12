@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "chalerpondasri.github.io",
     "description": "",
-    "home_page_url": "https://chalermpondasri.github.io/chalermpon.dev",
-    "feed_url": "https://chalermpondasri.github.io/chalermpon.dev/feed.json",
+    "home_page_url": "https://chalermpondasri.github.io",
+    "feed_url": "https://chalermpondasri.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Chalermpon Dasri"
     },
     "items": [
         {
-            "id": "https://chalermpondasri.github.io/chalermpon.dev/hello.html",
-            "url": "https://chalermpondasri.github.io/chalermpon.dev/hello.html",
+            "id": "https://chalermpondasri.github.io/hello.html",
+            "url": "https://chalermpondasri.github.io/hello.html",
             "title": "Hello",
             "summary": "This is a first article on Pubii.",
             "content_html": "<p>This is a first article on Pubii.</p>",

@@ -13,15 +13,15 @@
             "id": "https://chalermpondasri.github.io/hello.html",
             "url": "https://chalermpondasri.github.io/hello.html",
             "title": "Hello",
-            "summary": "This is a first article on Pubii.",
-            "content_html": "<p>This is a first article on Pubii.</p>",
+            "summary": "This is a first article on Pubii. It’s good to see you here.",
+            "content_html": "<p>This is a first article on Pubii. It’s good to see you here.</p>",
             "author": {
                 "name": "Chalermpon Dasri"
             },
             "tags": [
             ],
             "date_published": "2026-03-12T23:14:11+07:00",
-            "date_modified": "2026-03-12T23:14:11+07:00"
+            "date_modified": "2026-03-12T23:26:58+07:00"
         }
     ]
 }
